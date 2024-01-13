@@ -19,3 +19,6 @@
 
 • python3 infoPhone.py
 ```
+• **Canal De Telegram** : t.me/BoxPrey
+
+• **Contacto** : t.me/PreBoyx
