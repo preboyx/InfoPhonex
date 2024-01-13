@@ -12,10 +12,6 @@ title = """
 ### #    # #       ####  #       #    #  ####  #    # ###### 
                                                    
 """
-try:
- import telebot 
-except:
- os.system("pip install phonenumbers")
  
 print("___________________________________________________________________")
 
